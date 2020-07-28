@@ -1,4 +1,4 @@
-![ExpressJs Logo](https://medium.com/javascript-in-plain-english/3-express-js-features-you-need-to-know-8f78b0035f33)
+![ExpressJs Logo](https://d2vs8yx90uvogk.cloudfront.net/2019/11/ExpressJS.png)
 
 # Fundamentos Express.js
 Estudo sobre Fundamentos do ExpressJS
