@@ -3,7 +3,7 @@
 # Fundamentos Express.js
 Estudo sobre Fundamentos do ExpressJS
 
-1. O que é Express.js?
+### O que é Express.js?
   * Framework para desenvolvimento Back-End com NodeJS;
   * Utilizada para desenvolver aplicações Web;
   * Para instalar ele é necessário:
@@ -16,6 +16,7 @@ Estudo sobre Fundamentos do ExpressJS
       ```
   * Pasta node_modules, onde fica suas bibliotecas;
   * Arquivo package.json, identidade do seu projeto. Nele fica registrado tudo o que tem dentro dele, desde o nome, como as dependências.
- 
-2. Estrutura Inicial 
-
+  
+  
+  
+  
