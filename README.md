@@ -17,6 +17,12 @@ Estudo sobre Fundamentos do ExpressJS
   * Pasta node_modules, onde fica suas bibliotecas;
   * Arquivo package.json, identidade do seu projeto. Nele fica registrado tudo o que tem dentro dele, desde o nome, como as dependências.
   
-  
+### HotReload Server
+  * Colocando carregamento do server de uma forma instantânea;
+  * Ir no seu Bash:
+   ```shell 
+   npm intall nodemon -g #usamos o '-g' para instalarmos essa bibliteca globalmente
+   nodemon nomedoarquivo #inicia o servidor com hot reload (lembrando, tem que estar na pasta do projeto)
+   ```
   
   
